@@ -1,0 +1,1 @@
+Sauna-lifestyle static cloud site (DigitalOcean App Platform placeholder).
